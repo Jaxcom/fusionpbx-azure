@@ -18,12 +18,12 @@ Here is the settings you will need to add under voicemail category on Advance > 
 
 ``` 
 Subcategory				type			value			enabled
-transcribe_enabled		boolean			true			true
-transcribe_language		text 			en-US			true
-transcribe_provider		text 			azure 			true
+transcribe_enabled				boolean			true			true
+transcribe_language				text 			en-US			true
+transcribe_provider				text 			azure 			true
 azure_key1				text 			your_key1		true
 azure_key2				text 			your_key2		true
-azure_server_region		text 			location		true
+azure_server_region				text 			location		true
 
 ```
 

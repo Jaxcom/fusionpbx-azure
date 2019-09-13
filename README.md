@@ -1,7 +1,7 @@
 # How to use
-Solely prepared by Jaxcom for FusionPBX
-Azure Congnitive Service has been used to obtain API Key
-For anytypes of questions / support request please email to dev@jaxcom.net
+Solely prepared by Jaxcom for FusionPBX<br>
+Azure Congnitive Service has been used to obtain API Key<br>
+For anytypes of questions / support request please email to dev@jaxcom.net<br>
 
 ```
 
